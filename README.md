@@ -1,9 +1,7 @@
 # Project-Ghost-VPN
 Sample GUI for VPN using Bunifu Framework
 
-
-[![Untitled-1.png](https://i.postimg.cc/25HR5tJM/Untitled-1.png)](https://postimg.cc/R3nbsgvL)
-
+[![VPN.png](https://i.postimg.cc/J0C9YH2c/VPN.png)](https://postimg.cc/2bTcVymV)
 
 ## Requirements
 * Visual Studio 
