@@ -1,5 +1,5 @@
 # Project-Ghost-VPN
-Sample UI for VPN using Bunifu Framework
+Sample GUI for VPN using Bunifu Framework
 
 
 [![Untitled-1.png](https://i.postimg.cc/25HR5tJM/Untitled-1.png)](https://postimg.cc/R3nbsgvL)
